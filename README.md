@@ -6,7 +6,7 @@
 
 ## Instalación
 1. Para descarga el repositorio por primera vez.
-git clone https://github.com/devWtalent/conectamas.hr.git
+git clone https://github.com/eniac321/labeniac.github.io.git
 
 2. para ver los cambios en el repositorio
 git status
